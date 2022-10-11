@@ -4,7 +4,7 @@ import { Link } from 'react-router-dom';
 const Header = () => {
     return (
         
-            <nav className='flex  justify-between lg:mx-2 bg-slate-400 px-20 py-6'>
+            <nav className='flex  justify-between  bg-slate-400 px-20 py-6'>
   <div>
     <h1>Happy Quizing</h1>
   </div>
