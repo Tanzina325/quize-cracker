@@ -30,13 +30,13 @@ const Statistics = () => {
         
       ];
     return (
-        <div>
+        <div className='flex  justify-center  my-10 '>
             
         <LineChart
           width={500}
           height={300}
           data={data}>
-          <Line type="monotone" dataKey="total" stroke="#82ca9d" />
+          <Line type="monotone" dataKey="total" stroke="red" />
           <XAxis dataKey="name" />
           <YAxis />
           <Tooltip />

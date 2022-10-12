@@ -18,10 +18,10 @@ children:[
     element:<Home></Home> ,
     loader:()=>fetch("https://openapi.programming-hero.com/api/quiz")
   },
-  {
-    path:'/quiz',
-    element:<Quiz></Quiz>
-  },
+  // {
+  //   path:'/quiz',
+  //   element:<Quiz></Quiz>
+  // },
   {
     path:'/quiz/:id',
     element:<Quiz></Quiz>,
@@ -31,13 +31,16 @@ children:[
     path:'/statistics',
     element:<Statistics></Statistics>,
     // loader:()=>fetch("https://openapi.programming-hero.com/api/quiz")
-  },
-  {
-    path:'/about',
-    element:<About></About>
   }
+  // {
+  //   path:'/about',
+  //   element:<About></About>
+  // }
 ]
-      }
+      },
+      {path:'/*',
+    element:<About></About>}
+  
     ]
   )
   return (
