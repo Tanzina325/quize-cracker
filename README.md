@@ -21,8 +21,14 @@ See the section about [http://localhost:3000/statistics](http://localhost:3000/s
 
 ### ` QUIZ`
 
-Launches the test runner in the interactive watch mode.\
+Different quis questiones are attached here .\
 See the section about [http://localhost:3000/quiz/1](http://localhost:3000/quiz/1) for more information.
+
+See the section about [http://localhost:3000/quiz/2](http://localhost:3000/quiz/2) for more information.
+
+See the section about [http://localhost:3000/quiz/4](http://localhost:3000/quiz/4) for more information.
+
+See the section about [http://localhost:3000/quiz/5](http://localhost:3000/quiz/5) for more information.
 
 ### `Blogs`
 
