@@ -19,6 +19,11 @@ You may also see any lint errors in the console.
 Launches the test runner in the interactive watch mode.\
 See the section about [http://localhost:3000/statistics](http://localhost:3000/statistics) for more information.
 
+### ` QUIZ`
+
+Launches the test runner in the interactive watch mode.\
+See the section about [http://localhost:3000/quiz/1](http://localhost:3000/quiz/1) for more information.
+
 ### `Blogs`
 
 See the section about [http://localhost:3000/blogs](http://localhost:3000/blogs) 
