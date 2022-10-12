@@ -6,9 +6,10 @@ const Topic = ({topic}) => {
     return (
         
             <div className='border-solid border-4 rounded-3xl border-sky-500 p-5'>
-          <img  className='w-1/2 p-5 ml-16  lg:ml-32' src={logo} alt="" /> 
-          <h1 className='text-center py-4 font-bold '>{name}</h1>
-          <Link to ={`../quiz/${id}`} ><button className='bg-red-400 rounded-xl px-5 py-2 lg:ml-52 ml-24 mb-5'>Start Quiz</button></Link> 
+        
+          <div className='mx-auto'><img src={logo} alt="" /></div>
+          <h1 className='text-center py-4 font-bold mx-auto '>{name}</h1>
+          <div className='text-center'><Link to ={`../quiz/${id}`}  ><button className='bg-red-400 rounded-xl px-5 py-2 '>Start Quiz</button></Link> </div>
         </div>
     
     );
