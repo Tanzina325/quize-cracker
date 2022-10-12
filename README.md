@@ -51,7 +51,7 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 
 ### Code Splitting -->
 
-The live site is: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+The live site is: [https://marvelous-gnome-3eb5c1.netlify.app/](https://marvelous-gnome-3eb5c1.netlify.app/)
 
 <!-- ### Analyzing the Bundle Size
 
