@@ -5,7 +5,7 @@ const Option = ({option,correctAnswer}) => {
     const chooseOption =(correctAnswer)=>{
         if(option === correctAnswer)
         {toast('Hey,it is a right answer')}
-        // else{toast(' Hey,it is a wrong answer')}
+        else{toast(' Hey,it is a wrong answer')}
     }
     return (
         <div>
